@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**huynhtruc0309/huynhtruc0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+ <tr>
+ <td>
+ <h2> About Me </h2>
 
-Here are some ideas to get you started:
+- 🇻🇳 I'm Vietnamese 🇻🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 3D Reconstruction
+  
+- 🌱 I’m currently learning Computational Colour and Spectral Imaging
+  
+- 👯 I’m looking to collaborate on my Master Thesis
+  
+- 📫 How to reach me: huynhtruc0309@gmail.com
+  
+- 😄 Pronouns: She/her
+  
+</td>
+ <td>
+
+[![huynhtruc0309's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruc0309&count_private=true&show_icons=true&theme=react)](https://github.com/huynhtruc0309)
+ </td>
+ </tr>
+</table>
