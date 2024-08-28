@@ -5,11 +5,11 @@
  <td>
  <h2> About Me </h2>
 
-- 🇻🇳 I'm Vietnamese 🇻🇳
+- 🇻🇳 I'm Vietnamese in Norway and France
 
 - 🔭 I’m currently working on 3D Reconstruction
   
-- 🌱 I’m currently learning Computational Colour and Spectral Imaging
+- 🌱 I’m a Master Student in Erasmus Mundus - Computational Colour and Spectral Imaging
   
 - 👯 I’m looking to collaborate on my Master Thesis
   
