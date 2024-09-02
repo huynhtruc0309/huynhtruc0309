@@ -7,7 +7,7 @@
 
 - 🇻🇳 I'm Vietnamese in Norway and France
 
-- 🔭 I’m currently working on 3D Reconstruction
+- 🔭 I’m currently working on 3D Reconstruction and Modeling
   
 - 🌱 I’m a Master Student in Erasmus Mundus - Computational Colour and Spectral Imaging
   
