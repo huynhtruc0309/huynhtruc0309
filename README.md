@@ -11,7 +11,7 @@
   
 - 🌱 I’m a Master Student in Erasmus Mundus - Computational Colour and Spectral Imaging
   
-- 👯 I’m looking to collaborate on my Master Thesis
+- 👯 I’m looking for full time AI positions
   
 - 📫 How to reach me: huynhtruc0309@gmail.com
   
