@@ -5,9 +5,9 @@
  <td>
  <h2> About Me </h2>
 
-- 🇻🇳 I'm Vietnamese in Norway and France
+- 🇻🇳 I'm Vietnamese in Norway, France and Germany
 
-- 🔭 I’m currently working on 3D Reconstruction and Modeling
+- 🔭 I’m currently working on Hyperspectral Imaging, 3D Reconstruction and Modeling
   
 - 🌱 I’m a Master Student in Erasmus Mundus - Computational Colour and Spectral Imaging
   
