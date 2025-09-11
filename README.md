@@ -1,26 +1,34 @@
-## Hi there 👋
+### About me  
+Senior software engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Receptive AI. 
 
-<table>
- <tr>
- <td>
- <h2> About Me </h2>
+### Research & engineering interests  
+- Multimodal transformers for vision and retrieval  
+- Diffusion and latent‑generative models  
+- Real‑time inference pipelines & micro‑service architectures  
+- Cloud infrastructure on AWS / Kubernetes  
 
-- 🇻🇳 I'm Vietnamese in Norway, France and Germany
+### Some projects  
+- **Wild LVMs:** vision‑language models for robotics (2024)  
+- **Semantic Image Retrieval:** natural‑language image search (2024)  
+- **Receptive AI:** GPT‑powered employee‑feedback platform (> $1 M ARR)  
+- **Visual Assistant:** on‑device object‑detection mobile app
 
-- 🔭 I’m currently working on Hyperspectral Imaging, 3D Reconstruction and Modeling
-  
-- 🌱 I’m a Master Student in Erasmus Mundus - Computational Colour and Spectral Imaging
-  
-- 👯 I’m looking for full time AI positions
-  
-- 📫 How to reach me: huynhtruc0309@gmail.com
-  
-- 😄 Pronouns: She/her
-  
-</td>
- <td>
+### Tech stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/ihamzafer/)
+- [Google Scholar](https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en)
+- [Website](https://hamzafar.me)
+- [Email](mailto:hamzafer3@gmail.com)
 
-[![huynhtruc0309's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruc0309&count_private=true&show_icons=true&theme=react)](https://github.com/huynhtruc0309)
- </td>
- </tr>
-</table>
+<!-- <p align="center"> -->
+<!--   <img src="assets/hamza.png" alt="Hamza Zafar — Vision‑Language Researcher | Generative‑AI Engineer" /> -->
+<!-- </p> -->
