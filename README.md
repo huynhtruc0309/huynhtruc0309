@@ -1,5 +1,5 @@
 ### About me  
-Senior software engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Receptive AI. 
+Senior software engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Sony Europe. 
 
 ### Research & engineering interests  
 - Multimodal transformers for vision and retrieval  
