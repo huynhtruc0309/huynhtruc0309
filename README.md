@@ -1,34 +1,31 @@
-### About me  
-Senior software engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Sony Europe. 
+### About me  
+Computer vision engineer and spectral imaging researcher with 4+ years building production-scale biometric systems. Currently completing an Erasmus Mundus M.Sc. in Computational Colour and Spectral Imaging at NTNU and Jean Monnet University while conducting thesis research at Sony Europe on deep learning-based hyperspectral reconstruction.
 
-### Research & engineering interests  
-- Multimodal transformers for vision and retrieval  
-- Diffusion and latent‑generative models  
-- Real‑time inference pipelines & micro‑service architectures  
-- Cloud infrastructure on AWS / Kubernetes  
+### Research & engineering interests  
+- Hyperspectral imaging and multi-illumination estimation  
+- Deep learning for image relighting and color processing  
+- Large-scale biometric verification systems  
+- Medical image processing and AI applications  
 
 ### Some projects  
-- **Wild LVMs:** vision‑language models for robotics (2024)  
-- **Semantic Image Retrieval:** natural‑language image search (2024)  
-- **Receptive AI:** GPT‑powered employee‑feedback platform (> $1 M ARR)  
-- **Visual Assistant:** on‑device object‑detection mobile app
+- **Hyperspectral Reconstruction:** deep learning pipeline for spectral recovery from optical systems (Sony Europe, 2025)  
+- **Image Relighting:** benchmarking and Phong reflection model implementation (Laboratoire Hubert Curien, 2024)  
+- **Biometric Verification Platform:** led development of system serving millions of daily transactions (Viettel AI)  
+- **Fraud Detection App:** first prize winner at Meta Developer Circle Innovation Challenge Singapore  
 
-### Tech stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
+### Tech stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/huynhtruc0309/)
-- [Google Scholar](https://scholar.google.com/citations?user=ctGeZ5sAAAAJ&hl=en)
+- [GitHub](https://github.com/huynhtruc0309)
 - [Website](https://huynhtruc0309.github.io/)
 - [Email](mailto:huynhtruc0309@gmail.com)
-
-<!-- <p align="center"> -->
-<!--   <img src="assets/hamza.png" alt="Hamza Zafar — Vision‑Language Researcher | Generative‑AI Engineer" /> -->
-<!-- </p> -->
