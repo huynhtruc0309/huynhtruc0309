@@ -26,6 +26,7 @@ Computer vision engineer and spectral imaging researcher with 4+ years building 
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/huynhtruc0309/)
+- [Google Scholar](https://scholar.google.com/citations?user=ctGeZ5sAAAAJ&hl=en)
 - [GitHub](https://github.com/huynhtruc0309)
 - [Website](https://huynhtruc0309.github.io/)
 - [Email](mailto:huynhtruc0309@gmail.com)
